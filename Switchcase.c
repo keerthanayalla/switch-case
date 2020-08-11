@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class switchcase{
- public class void main(String[] args){
+ public static void main(String[] args){
   int choice;
   System.out.println("choose one: 1. Yellow\t 2. Blue\t 3. Purple");
   Scanner s= new Scanner(System.in);
